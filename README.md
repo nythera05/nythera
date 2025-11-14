@@ -1,12 +1,20 @@
-# Hi 👋, I'm nythera05
+# Hi 👋, I'm Nythera
 
 ### A passionate frontend developer from Türkiye
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nythera05&label=Profile views&color=0e75b6&style=flat" alt="nythera05" /> </p>
 
-- 🔭 I'm currently working on **NuxtJS Project**
+- 🔭 I'm currently working on **Websites and Artificial Intelligences**
 
-- 🌱 I'm currently learning **C, C++ and Java**
+- 🌱 I'm currently learning **C, C++ and Java etc.**
+
+- 👯 I'm looking to collaborate on **I don't plan to cooperate.**
+
+- 🤝 I'm looking for help with **I don't need help.**
+
+- 💬 Ask me about **All development.**
+
+- ⚡ Fun fact **I am the best!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
